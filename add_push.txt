@@ -4,3 +4,7 @@ Git add push commands.
 Modify changes to check status!!
 
 git dummy branch
+
+
+Changes in thirsty branch not available in other branches!!
+work in progress !!
