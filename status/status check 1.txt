@@ -1,1 +1,1 @@
-staus check 1
+change entire file to check difftool functionality
