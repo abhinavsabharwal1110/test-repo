@@ -2,5 +2,3 @@ Git add push commands.
 
 
 Modify changes to check status!!
-
-adding change to check revert functionality
